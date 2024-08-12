@@ -16,8 +16,11 @@ Customer churn analysis is an important task for telecom companies which aims to
 # Date of Conference: 21-22 June 2024
 # Date Added to IEEE Xplore: 06 August 2024
 # ISBN Information:
+
 Electronic ISBN:979-8-3503-6328-9
+
 Print on Demand(PoD) ISBN:979-8-3503-6329-6
+
 # DOI: 10.1109/APCI61480.2024.10617375
 # Publisher: IEEE
 # Conference Location: KANNUR, India
