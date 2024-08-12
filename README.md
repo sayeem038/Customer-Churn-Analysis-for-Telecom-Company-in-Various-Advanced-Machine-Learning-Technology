@@ -9,3 +9,7 @@ Customer churn analysis is an important task for telecom companies which aims to
 
 # Paper Publication Link :
 # https://ieeexplore.ieee.org/document/10617375
+
+# Published in:
+2024 International Conference on Advancements in Power, Communication and Intelligent Systems (APCI).
+
